@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "走路",
+    "file": "action_0.ffm",
+    "bytes": 153155,
+    "crc32": 116092807,
+    "sha256": "fd8fe4439489eade0988d6a128bcac7887c4dc45df22038ea134280046b2fa20"
+  },
+  {
+    "id": 1,
+    "name": "跑步",
+    "file": "action_1.ffm",
+    "bytes": 174702,
+    "crc32": 2309014576,
+    "sha256": "8996e952058ca86e9c46e4eb09f2deee1e02687aa4ea3499de5cd886e5e0bfa1"
+  },
+  {
+    "id": 2,
+    "name": "小跳",
+    "file": "action_2.ffm",
+    "bytes": 92946,
+    "crc32": 2028341932,
+    "sha256": "16f182aa497519a282744a94dfc33ef00e7f4a18fb952bb5de68d90201c82360"
+  },
+  {
+    "id": 3,
+    "name": "跳舞",
+    "file": "action_3.ffm",
+    "bytes": 167816,
+    "crc32": 2303434472,
+    "sha256": "9ecd6accf41a297181e47a6a67cf4b8b333cbbe3dc1ab3d7ad1739e53a0e5394"
+  },
+  {
+    "id": 4,
+    "name": "挥手",
+    "file": "action_4.ffm",
+    "bytes": 177840,
+    "crc32": 2341021731,
+    "sha256": "c6de28a9ee485aa2fbb55c10ae5712964a32d9cd7743575bcb27c4beb8240beb"
+  },
+  {
+    "id": 5,
+    "name": "点头鞠躬",
+    "file": "action_5.ffm",
+    "bytes": 102038,
+    "crc32": 1078902250,
+    "sha256": "c279ae10e46378378f649d08fa34a02ec607f49e42aaa08928dbdbba861a5d3b"
+  },
+  {
+    "id": 6,
+    "name": "伸懒腰",
+    "file": "action_6.ffm",
+    "bytes": 99221,
+    "crc32": 651897980,
+    "sha256": "cd7fc80e49008349fff830b584012510d7b49c51271d34f063d8c89599578cf5"
+  },
+  {
+    "id": 7,
+    "name": "打瞌睡",
+    "file": "action_7.ffm",
+    "bytes": 101463,
+    "crc32": 1642810330,
+    "sha256": "775a1282c88f48bc7c64ed3d26a6eaa8f99ccbfe78917b8b32ca6225227e53e2"
+  },
+  {
+    "id": 8,
+    "name": "拍手",
+    "file": "action_8.ffm",
+    "bytes": 92866,
+    "crc32": 2297136802,
+    "sha256": "2a20c66d1ac35c6a1210194cbcee4d73819b3b0788d5d9fffeaee73118be7835"
+  },
+  {
+    "id": 9,
+    "name": "摆尾",
+    "file": "action_9.ffm",
+    "bytes": 90245,
+    "crc32": 406695245,
+    "sha256": "a9339bfbdc93d8ce38f49052a2e7ff9f50670395bd91abd46a284566d54c8354"
+  },
+  {
+    "id": 10,
+    "name": "左右张望",
+    "file": "action_10.ffm",
+    "bytes": 90616,
+    "crc32": 2632504057,
+    "sha256": "6a6d5f709e32317236bfea3d19942ea519db122b52522b307047f5f5626e4611"
+  },
+  {
+    "id": 11,
+    "name": "开心欢呼",
+    "file": "action_11.ffm",
+    "bytes": 82460,
+    "crc32": 1177981973,
+    "sha256": "1fe99aeed457f62ed11679b5df9536a127c6c7a75051a81b4e583aaf294e7fbe"
+  }
+]
